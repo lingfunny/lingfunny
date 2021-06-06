@@ -1,3 +1,3 @@
-- A Chinese
+- Chinese
 - Learning Olympiad in Informatics
 - [My Own Project](https://github.com/lingfunny/Chemistry-Master)
