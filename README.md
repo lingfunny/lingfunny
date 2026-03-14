@@ -1,3 +1,3 @@
 - Competitive Programming
-    - Codeforces: lingfunny, Iingfunny
+    - Codeforces: kaito, kaito3872
     - Atcoder: lingfunny
